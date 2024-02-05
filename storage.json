@@ -1,0 +1,9 @@
+{
+  "userDataProfilesMigration": true,
+  "profileAssociations": {
+    "workspaces": {},
+    "emptyWindows": {}
+  },
+  "profileAssociationsMigration": true,
+  "terminal.hidden": "[{\"id\":\"terminal\",\"isHidden\":false}]"
+}
